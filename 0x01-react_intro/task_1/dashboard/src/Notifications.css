@@ -1,0 +1,9 @@
+:root {
+    --color-white: #fff;
+    --color-hb: #e1354b;
+  }
+  
+  .Notifications {
+    border: 3px dashed var(--color-hb);
+    padding: 1rem;
+  }
